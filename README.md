@@ -4,4 +4,4 @@ This repository contains the code and data required to reproduce the article "De
 
 ## scoring calculation
 Run .py file:
-* network_ADE\prediction\ADE_prediction_result
+* script_scoring.py
